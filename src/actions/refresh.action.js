@@ -1,0 +1,2 @@
+export const SET_REFRESH = "[REFRESH] SET_REFRESH";
+export const GET_REFRESH = "[REFRESH] GET_REFRESH";
